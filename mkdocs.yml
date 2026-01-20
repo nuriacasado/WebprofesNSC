@@ -1,7 +1,6 @@
 site_name: WebprofesNSC
 site_description: Recursos de IA para docentes
 site_author: Superagente IA
-docs_dir: .
 
 theme:
   name: material
