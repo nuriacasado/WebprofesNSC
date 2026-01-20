@@ -1,0 +1,14 @@
+site_name: WebprofesNSC
+site_description: Recursos de IA para docentes
+site_author: Superagente IA
+
+theme:
+  name: material
+  language: es
+  palette:
+    scheme: default
+    primary: teal
+    accent: purple
+
+nav:
+  - Inicio: index.md
