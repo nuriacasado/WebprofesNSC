@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="logoletras.png" alt="Logo del centro" width="50">
-</p># Bienvenidos a WebprofesNSC
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="logoletras.png" alt="Logo" width="100">
+  <h1>Bienvenidos a la Web de profes NSC</h1>
+</div>
 
 Este es un espacio colaborativo para docentes donde recopilaremos recursos, herramientas y buenas prácticas sobre Inteligencia Artificial en educación.
 
