@@ -1,4 +1,4 @@
-# Bienvenidos a WebprofesNSC
+![Logo del centro](logo.png)# Bienvenidos a WebprofesNSC
 
 Este es un espacio colaborativo para docentes donde recopilaremos recursos, herramientas y buenas prácticas sobre Inteligencia Artificial en educación.
 
