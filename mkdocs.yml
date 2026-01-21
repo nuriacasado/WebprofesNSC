@@ -5,6 +5,8 @@ site_author: Superagente IA
 theme:
   name: material
   language: es
+  logo: letras.png  # <--- ESTA ES LA LÍNEA NUEVA
+  favicon: letras.png # <--- Añade esta también para que salga el icono en la pestaña del navegador
 palette:
   scheme: default
   primary: indigo
