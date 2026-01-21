@@ -13,3 +13,5 @@ theme:
 nav:
   - Inicio: index.md
   - Herramientas: herramientas.md
+  - Biblioteca de Prompts:
+      - 'Evaluación': prompts/evaluacion.md
