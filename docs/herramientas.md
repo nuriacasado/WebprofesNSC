@@ -6,6 +6,7 @@ Aquí recopilamos las herramientas más útiles y seguras para usar en el aula.
 
 | Herramienta | Uso Principal | Enlace |
 | :--- | :--- | :--- |
+| **Gemini (Google)** | Integración total con Google (Docs, Drive) y multimodal | [Ir a la web](https://gemini.google.com) |
 | **ChatGPT (OpenAI)** | Planificación, redacción y roleplay | [Ir a la web](https://chat.openai.com) |
 | **Claude (Anthropic)** | Análisis de textos largos y tono humano | [Ir a la web](https://claude.ai) |
 | **Perplexity** | Búsqueda de información con fuentes | [Ir a la web](https://perplexity.ai) |
