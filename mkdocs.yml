@@ -13,5 +13,6 @@ palette:
 nav:
   - Inicio: index.md
   - Herramientas: herramientas.md
+  - Ecosistema Google: google-ia.md
   - Biblioteca de Prompts:
       - 'Evaluación': prompts/evaluacion.md
