@@ -2,9 +2,8 @@
 ## Prompt listo para usar
 
 Copia y pega el siguiente prompt en la herramienta de IA que utilices:
-
-```text
-Actúa como un docente experto en didáctica y LOMLOE.
+### 📋 El Prompt
+> "Actúa como un docente experto en didáctica y LOMLOE.
 Diseña una actividad educativa para alumnado de ESO que:
 - Trabaje una competencia clave de forma explícita
 - Incluya atención a la diversidad
