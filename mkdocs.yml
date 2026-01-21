@@ -12,3 +12,4 @@ theme:
 
 nav:
   - Inicio: index.md
+  - Herramientas: herramientas.md
