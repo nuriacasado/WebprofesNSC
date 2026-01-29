@@ -13,7 +13,7 @@ palette:
   accent: purple
 
 nav:
-  - Inicio: index.md
+ - Inicio: index.md
  - Herramientas:
       - 'Herramientas IA': herramientas-ia.md
       - 'Herramientas Aula': herramientas-aula.md
