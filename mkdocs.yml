@@ -14,9 +14,9 @@ palette:
 
 nav:
   - Inicio: index.md
-  - Herramientas: 
-      - 'Herramientas IA': herramientasia.md
-      - 'Herramientas Aula': herramientasaula.md
+ - Herramientas:
+      - 'Herramientas IA': herramientas-ia.md
+      - 'Herramientas Aula': herramientas-aula.md
   - Ecosistema Google: google-ia.md
   - Biblioteca de Prompts:
       - 'Evaluación': prompts/evaluacion.md
