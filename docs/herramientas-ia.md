@@ -1,6 +1,6 @@
 # Herramientas de IA para Docentes
 
-Aquí recopilamos las herramientas más útiles y seguras para usar en el aula.
+Aquí recopilamos las herramientas de IA más útiles y seguras para usar en el aula.
 
 ## Chatbots Generalistas
 
@@ -16,5 +16,5 @@ Aquí recopilamos las herramientas más útiles y seguras para usar en el aula.
 * **Midjourney**: Calidad artística superior (Pago).
 * **Bing Image Creator**: Gratuito y fácil de usar (DALL-E 3).
 
-!!! tip "Consejo Pro"
+!!! Tip "Consejo Pro"
     Siempre verifica la política de privacidad de datos antes de introducir información de tus alumnos en estas herramientas.
