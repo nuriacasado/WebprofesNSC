@@ -7,7 +7,7 @@ theme:
   language: es
   logo: logoletras.png  # <--- ESTA ES LA LÍNEA NUEVA
   favicon: logoletras.png # <--- Añade esta también para que salga el icono en la pestaña del navegador
-palette:
+  palette:
   scheme: default
   primary: indigo
   accent: purple
@@ -17,7 +17,7 @@ nav:
  - Herramientas:
       - 'Herramientas IA': herramientas-ia.md
       - 'Herramientas Aula': herramientas-aula.md
-  - Ecosistema Google: google-ia.md
-  - Biblioteca de Prompts:
+ - Ecosistema Google: google-ia.md
+ - Biblioteca de Prompts:
       - 'Evaluación': prompts/evaluacion.md
       - 'Actividades': prompts/ActividadesAula.md
