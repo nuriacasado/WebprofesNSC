@@ -1,6 +1,14 @@
 # Herramientas de Aula
 
-Aquí encontrarás plantillas y recursos listos para usar en tu día a día.
+Esta es una prueba de enlace normal:
+[👉 ENLACE FUERA DE LA CAJA]([https://www.google.com](https://docs.google.com/document/d/1_-aETr84vD-K4doWGcArlm7UXkTxBtoszegLuxkbHUM/copy)))
+
+---
+
+!!! info "Caja de prueba"
+    Aquí probamos el enlace dentro. Fíjate que esta línea está alineada con el texto, no pegada al borde.
+    
+    [👉 ENLACE DENTRO DE LA CAJA]([https://www.google.com](https://docs.google.com/document/d/1_-aETr84vD-K4doWGcArlm7UXkTxBtoszegLuxkbHUM/copy)))
 
 ## 📝 Evaluación y Exámenes
 
