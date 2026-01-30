@@ -1,7 +1,7 @@
 # Herramientas de Aula
 
 Esta es una prueba de enlace normal:
-[👉 ENLACE FUERA DE LA CAJA]([https://www.google.com](https://docs.google.com/document/d/1_-aETr84vD-K4doWGcArlm7UXkTxBtoszegLuxkbHUM/copy)))
+[👉 ENLACE FUERA DE LA CAJA](https://docs.google.com/document/d/1_-aETr84vD-K4doWGcArlm7UXkTxBtoszegLuxkbHUM/copy)
 
 ---
 
