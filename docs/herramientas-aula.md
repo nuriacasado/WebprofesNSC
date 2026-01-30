@@ -9,7 +9,7 @@ Aquí encontrarás plantillas y recursos listos para usar en tu día a día.
 
     **Ideal para:** Exámenes impresos y pruebas escritas.
     
-    [👉 Obtener mi copia editable](https://docs.google.com/document/d/1_-aETr84vD-K4doWGcArlm7UXkTxBtoszegLuxkbHUM/copy)
+    <a href="PON_AQUI_TU_ENLACE_LARGO" target="_blank">👉 ABRIR PLANTILLA EN GOOGLE DOCS</a>
 
 ## 🎨 Gestión Visual
 
